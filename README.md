@@ -16,7 +16,7 @@ from the news cycle leading the front pages on **Friday 27 November 2026**:
 - **Also today:** NZ awaits its final election result · Spain's campaign ends before Sunday's vote · SpaceX cleared for 1 million satellites
 - **Ticker:** Driver held over the Cairo fire that killed 31 · Myanmar rejects ICJ genocide orders · $40 HIV jab reaches Africa
 
-The page also carries a region strip (Middle East 2 · North America 2 · Europe 3 · Asia 2 · Africa 3 · Oceania 1 = 13), a six-number strip (2 · 800,000+ · 77,000 · 9 · 1,000,000 · 31), a "The Day in UTC" timeline (25 Nov 16:30 → 27 Nov 23:00), a world map with 13 numbered pins, a field breakdown (politics 4 · conflict 3 · disaster 2 · law 2 · technology 1 · health 1 = 13), and an honest date-check footer.
+The page also carries a region strip (Middle East 2 · North America 2 · Europe 3 · Asia 2 · Africa 3 · Oceania 1 = 13), a six-number strip (2 · 800,000+ · 77,000 · 9 · 1,000,000 · 31), a "The Day in UTC" timeline (25 Nov → 27 Nov 23:00), a world map with 13 numbered pins, a field breakdown (politics 4 · conflict 3 · disaster 2 · law 2 · technology 1 · health 1 = 13), and an honest date-check footer.
 
 ## Date honesty
 
